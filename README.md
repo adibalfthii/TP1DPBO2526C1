@@ -53,8 +53,33 @@ Berikut adalah bukti screenshot hasil running program dari keempat bahasa:
 ### 2. Output Java (Terminal)
 
 
+<img width="377" height="427" alt="output_java" src="https://github.com/user-attachments/assets/62dcf9fd-a77b-4ee2-a44c-9863a2462b7c" />
+<img width="512" height="373" alt="output_java_2" src="https://github.com/user-attachments/assets/fd613413-373f-44bf-a6bc-2ce01810ca36" />
+<img width="455" height="409" alt="output_java_3" src="https://github.com/user-attachments/assets/62093b01-9f4d-436c-b352-4f0ad0f9243d" />
+<img width="433" height="373" alt="output_java_4" src="https://github.com/user-attachments/assets/bfe3c9a2-c89c-4ea1-b594-cd6820d3c984" />
+<img width="512" height="428" alt="output_java_5" src="https://github.com/user-attachments/assets/15e8fdb1-f6e1-48f4-9f34-1118a2f0d1d5" />
+<img width="431" height="364" alt="output_java_6" src="https://github.com/user-attachments/assets/1f74f044-955e-42f8-a9c0-181830286152" />
+
 ### 3. Output Python (Terminal)
 
 
+<img width="408" height="417" alt="output_python" src="https://github.com/user-attachments/assets/c6c8a494-75b5-46ea-a561-bd4f927bd5f0" />
+<img width="545" height="348" alt="output_python 2" src="https://github.com/user-attachments/assets/469a944f-566e-4717-8ceb-a8cecdac8662" />
+<img width="488" height="385" alt="output_python 3" src="https://github.com/user-attachments/assets/e8d019fd-e795-4b1a-a6a1-6960db9c0980" />
+<img width="275" height="361" alt="output_python 4" src="https://github.com/user-attachments/assets/ed974694-bcbf-4ad1-ac49-f8a428c779c8" />
+<img width="331" height="368" alt="output_python 5" src="https://github.com/user-attachments/assets/7619df52-ce55-48b0-934e-438b1b5929d0" />
+<img width="353" height="328" alt="output_python 6" src="https://github.com/user-attachments/assets/963895bc-c8d5-4c9f-9887-aefabc0943c9" />
+
 ### 4. Output PHP (Web Browser)
+
+
+<img width="928" height="486" alt="output_php 1" src="https://github.com/user-attachments/assets/1fb62f14-7cd2-4757-a4bb-8f367f502e3c" />
+<img width="871" height="505" alt="output_php 2" src="https://github.com/user-attachments/assets/a0de95ea-a365-4972-b6d6-c4f9537ec92f" />
+<img width="851" height="476" alt="output_php 3" src="https://github.com/user-attachments/assets/30337ad7-cd99-4511-bbba-20160059e755" />
+<img width="929" height="481" alt="output_php 4" src="https://github.com/user-attachments/assets/fe59047e-c3cc-43e5-aa86-e931fc860708" />
+<img width="799" height="458" alt="output_php 5" src="https://github.com/user-attachments/assets/ee1dd2d7-22b9-4283-b367-81e1324492b5" />
+
+
+
+
 
