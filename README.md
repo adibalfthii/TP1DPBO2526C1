@@ -42,13 +42,17 @@ Berikut adalah bukti screenshot hasil running program dari keempat bahasa:
 
 **1. Output C++**
 <img width="489" height="359" alt="output_cpp" src="https://github.com/user-attachments/assets/c4a28397-da2c-4acd-901a-c2bfe0425018" />
-
+<img width="569" height="305" alt="output_cpp_2" src="https://github.com/user-attachments/assets/cc5e9f7b-23d9-4c62-9cb6-ce67113eca39" />
+<img width="457" height="370" alt="output_cpp_3" src="https://github.com/user-attachments/assets/8cb2f8fc-12b0-4c92-98da-6f22592338b4" />
+<img width="381" height="296" alt="output_cpp_4" src="https://github.com/user-attachments/assets/cb1e1190-6b9d-4b1e-a756-e234330d5e07" />
+<img width="371" height="379" alt="output_cpp_5png" src="https://github.com/user-attachments/assets/7e3ececb-e83c-4025-a814-bebd93ce5e38" />
+<img width="427" height="302" alt="output_cpp_6" src="https://github.com/user-attachments/assets/53b1928a-b80a-497f-8ae0-35363142fa08" />
 
 ### 2. Output Java (Terminal)
-![Java](Folder%20Dokumentasi/output_java.png)
+
 
 ### 3. Output Python (Terminal)
-![Python](Folder%20Dokumentasi/output_python.png)
+
 
 ### 4. Output PHP (Web Browser)
-![PHP](Folder%20Dokumentasi/output_php.png)
+
