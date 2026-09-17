@@ -41,6 +41,7 @@ Selain atribut itu, ada juga konstruktor sama fungsi *getter-setter* biar data-d
 Berikut adalah bukti screenshot hasil running program dari keempat bahasa:
 
 **1. Output C++**
+<img width="489" height="359" alt="output_cpp" src="https://github.com/user-attachments/assets/c4a28397-da2c-4acd-901a-c2bfe0425018" />
 
 
 ### 2. Output Java (Terminal)
