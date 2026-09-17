@@ -41,6 +41,8 @@ Selain atribut itu, ada juga konstruktor sama fungsi *getter-setter* biar data-d
 Berikut adalah bukti screenshot hasil running program dari keempat bahasa:
 
 **1. Output C++**
+
+
 <img width="489" height="359" alt="output_cpp" src="https://github.com/user-attachments/assets/c4a28397-da2c-4acd-901a-c2bfe0425018" />
 <img width="569" height="305" alt="output_cpp_2" src="https://github.com/user-attachments/assets/cc5e9f7b-23d9-4c62-9cb6-ce67113eca39" />
 <img width="457" height="370" alt="output_cpp_3" src="https://github.com/user-attachments/assets/8cb2f8fc-12b0-4c92-98da-6f22592338b4" />
