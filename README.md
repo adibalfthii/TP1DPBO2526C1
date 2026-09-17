@@ -26,17 +26,17 @@ Selain atribut itu, ada juga konstruktor sama fungsi *getter-setter* biar data-d
   - Tampilan programnya pakai basis teks (CLI) dengan perulangan `while` dan menu interaktif. 
   - Bagian `cin.ignore()` dipasang pas setelah nginput angka, tujuannya biar *buffer* keyboard gak nyangkut dan gak bikin input *string* di bawahnya loncat-loncat.
     
-**Java (`Folder Java`)**
+**Java**
   - Konsep OOP-nya di Java dibikin lebih ketat pakai *encapsulation* (atributnya diset `private` terus diakses lewat fungsi `get` dan `set`).
   - Penampung datanya pakai `ArrayList<film>`.
   - Buat interaksi sama terminalnya, aku pakai class `Scanner` supaya user bisa ngetik pilihan menu dan data film dengan gampang.
     
-**Python (`Folder Python`)**
+**Python**
   - Di Python, kodenya jauh lebih ringkas karena tinggal manfaatin tipe data *List* bawaan buat nampung objek-objek filmnya.
   - Perulangan menu utamanya pakai `while True` yang dipaduin sama percabangan `if-elif-else` biar rapi.
   - Tiap nambah data baru, tinggal panggil class `Film` terus di-*append* deh ke dalam list.
     
-**PHP (`Folder PHP`)**
+**PHP**
   - Nah, kalau yang PHP ini agak beda karena bentuknya web (pakai HTML Form & Tabel).
   - Karena gak pakai database dulu, data sementaranya ditampung pakai sesi (`$_SESSION['films']`). Jadi pas webnya di-refresh, datanya gak langsung ilang selama browsernya masih kebuka.
   - Logika CRUD-nya disesuaikan ke web pakai method form POST.
