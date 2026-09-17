@@ -21,7 +21,7 @@ Selain atribut itu, ada juga konstruktor sama fungsi *getter-setter* biar data-d
 
 **2. Detail Code dari tiap bahasanya**
 
-**C++ (`Folder CPP`)**
+**C++**
   - Untuk nyimpen banyak data film sekaligus, aku manfaatin `vector<Film>` dari STL C++ biar ukuran array-nya bisa dinamis.
   - Tampilan programnya pakai basis teks (CLI) dengan perulangan `while` dan menu interaktif. 
   - Bagian `cin.ignore()` dipasang pas setelah nginput angka, tujuannya biar *buffer* keyboard gak nyangkut dan gak bikin input *string* di bawahnya loncat-loncat.
